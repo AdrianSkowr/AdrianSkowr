@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdrianSkowr
 - 👀 I have a broad interest in data analysis. I made this profile because I want to use the knowledge i have gained in practice and build my portfolio.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning SQL and Python
 - 📫 How to reach me: adr.skowronski@gmail.com
 
 <!---
