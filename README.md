@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adrian Skowronski
+- 👋 Hi, I’m Adrian Skowroński
 - 📫 How to reach me: adr.skowronski@gmail.com
 
 <!---
